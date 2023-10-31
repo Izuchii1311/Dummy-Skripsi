@@ -1,0 +1,164 @@
+Judul : PERANCANGAN APLIKASI WEBSITE SISTEM PENJADWALAN KEGIATAN DAN MANAJEMEN FASILITAS KAMPUS UNTUK CIVITAS AKADEMIKA
+
+Kajian Pustaka
+Aplikasi = https://jogjaweb.co.id/blog/apa-itu-aplikasi
+	https://repository.dinamika.ac.id/id/eprint/1730/4/BAB_II.pdf
+UML = https://ojs.polmed.ac.id/index.php/KONSEP2021/article/download/585/196#:~:text=UML%20(Unified%20Modelling%20Language)%20Menurut,kegiatan%2C%20seperti%20memodelkan%20kasus%20bisnis%2C
+Website	= https://www.cnbcindonesia.com/tech/20220618152119-37-348229/7-pengertian-website-menurut-ahli-lengkap-jenis-fungsinya#:~:text=Gregorius%20(2000),halaman%20yang%20disebut%20dengan%20homepage.
+Sistem = https://www.kompas.com/skola/read/2021/08/02/131754769/sistem-pengertian-para-ahli-karakteristik-elemen-dan-jenisnya
+Penjadwalan = https://e-journal.uajy.ac.id/7239/4/3TI04609.pdf
+	Fungsi dan tujuan penjadwalan = https://repository.uin-suska.ac.id/16009/7/7.%20BAB%20II_201802TIN.pdf
+Management = https://bakri.uma.ac.id/pengertian-manajemen-menurut-para-ahli/
+fasilitas = https://perpustakaan.pancabudi.ac.id/dl_file/penelitian/19311_2_BAB_II.pdf
+kampus / perguruan tinggi = https://eprints.uny.ac.id/8014/3/BAB%202-06404241036.pdf
+civitas akademik = https://www.detik.com/bali/berita/d-6465769/civitas-akademika-adalah-berikut-definisinya
+
+
+Penelitian Sebelumnya
+1. Pamela Alfa Adelia Darmadji (2008), Pengembangan Aplikasi Sistem Informasi Penjadwalan Perkuliahan Elektronik Berbasis Web Dengan SMS Gateaway. https://lib.ui.ac.id/file?file=digital/124288-R030863.pdf 
+2. Ulisna Ade Rifai (2011), Pengembangan Aplikasi Penjadwalan Kegiatan Dengan Menggunakan Algoritma Genetika, Studi Kasus : Humas Kementrian Agama RI https://repository.uinjkt.ac.id/dspace/bitstream/123456789/4947/1/ULISNA%20ADE%20RIFAI-FST.pdf 
+3. Fahmy Ardiman (2017), Aplikasi Penjadwalan Ruangan Berbasis Web Balai Pelatihan dan Riset TIK Memanfaatkan Teknologi Web Service https://repository.uinjkt.ac.id/dspace/bitstream/123456789/61354/1/FAHMY%20ARDIMAN%20-%20FST.pdf
+4. Rahmat Julianto Putra (2021), Rancang Bangun Aplikasi Management Aset Berbasis Website Pada SMA Hang Tuah 4 Surabaya. https://repository.dinamika.ac.id/id/eprint/5875/1/18410100267-2021-UNIVERSITASDINAMIKA.pdf 
+5. Dwi Putri Utami (2020), Sistem Penjadwalan Kuliah Berbasis Web Menggunakan Teori Algoritma Genetika Di Jurusan Teknik Elektro Universitas Sriwijaya.   https://repository.unsri.ac.id/31623/3/RAMA_20201_03041381821033_0007127807_01_front_ref.pdf 
+
+
+
+Jadi Aplikasi-nya itu bisa melakukan pembookingan jadwal kegiatan acara.
+Misalkan Tanggal 10 di kalender kosong, kita bisa melakukan pembookingan, dan itu tidak bisa ditumpuk oleh organisasi lain. Tujuan lainnya apa demi adanya laporan kegiatan yang terkumpul, adanya database mengenai kegiatan, Bisa membuat API dari kegiatan tersebut.
+Kita juga bisa me-management fasilitas kampus supaya mana saja yang ada dan tersedia untuk dipinjam oleh mahasiswa ketika ingin mengadakan kegiatan. Tujuannya juga bisa mengkoordinisir dan mengkoordinasikan dari fasilitas kampus tersebut, bahkan bisa menjadi sebuah laporan. Jika mengalami kendala kekurangan mengenai fasilitas kampus bisa menjadi evaluasi.
+
+Untuk siapa aplikasi ini? 'Untuk Civitas Kampus'
+Semuanya akan memiliki account mereka sendiri yang dapat dikelola
+ada mahasiswa, staff, dosen, admin, organisasi,
+
+Mahasiswa bisa melihat informasi yang akan disediakan & bisa memberikan komentar bahkan fitur lain yang akan dikembangkan.
+
+Untuk organisasi = akun tersebut akan dipegang oleh sebuah organisasi dimana jika mereka ingin melakukan kegiatan mereka harus mengajukannya terlebih dahulu kemudian akan di acc tidaknya oleh admin.
+
+Staff juga bisa mengadakan sebuah kegiatan sama seperti akun organisasi dimana akan di acc oleh admin.
+
+Admin, dapat melakukan acc dan juga mengelola penjadwalan kegiatan beserta management fasilitas kampus.
+
+
+Benefit :
+Di dalam aplikasi ini akan ada kalender yang menampilkan informasi kegiatan yang mendatang.
+Bisa melakukan upload dokumen yang diperlukan saat mengajukan kegiatan & setelah mengadakan kegiatan sebagai data dan asset penting.
+Asset tersebut bisa dibuat menjadi sebuah API.
+Adanya fitur news dan postingan mengenai kegiatan yang telah dilaksanakan.
+Akan adanya fitur kommentar dan forum diskusi & bertanya.
+Sebagai media Informasi Kampus juga
+Untuk apa API ?
+	- selain data tersebut untuk website ini, data ini juga bisa dipakai untuk website utama STMIK AMIK 		BANDUNG agar informasi datanya selalu di update.
+	- dll.
+
+
+*Aplikasi ini juga hanya civitas kampus yang bisa login untuk melakukan penjadwalan kegiatan dan management fasilitas
+
+
+
+Versi 1.0
+	Aplikasi ini hanya bertujuan dalam penjadwalan, management fasilitas, dan API.
+	misalkan : https://amik-scheduler.ac.id/
+	*Media informasi detail kegiatan
+	*Filtering kegiatan
+	*Search by date
+	*Notification
+	*Account Civitas Kampus
+	*Booking jadwal
+	*News organizations
+	*Profile Page
+	*Documentation Access
+	*Forum discusion, evalution, & comment.
+	*CRUD for create a new activity and new facility.
+
+	Benefit :
+	- Solving problom about date activition in campuss.
+	- Media Information about college student activity.
+	- Giving a social discusion.
+	- Facility Information.
+	- Profile organization.
+	- Database about activity college student.
+	- Add notification 7 day before activity.
+	- Giving database API for amik.
+	
+	Solving Problem :
+	- Bentrok kegiatan
+	- Ketidak tahuan informasi kegiatan
+	- Jadwal aktivitas
+	- Manage Informasi Fasilitas Kampus.
+	- Forum diskusi / evaluasi / commentar.
+	- Membuat Postingan kegiatan sehingga organisasi terlihat aktif di kampus.
+	
+	
+
+Versi 1.1 (Gagal - karena media informasi pengumuman lebih mudah dengan melalui whatsapp)
+	Aplikasi ini juga bisa menjadi media informasi/pengumuman untuk mengelola postingan dari setiap account.
+	misalkan : 	https://amik-scheduler.ac.id/announcement/
+			https://amikActivityOrganization.ac.id/announcement/
+
+Versi 1.2 (Gagal - karena landing page untuk setiap ormawa sudah ada di website amik)
+	Bisa mengelola informasi mengenai suatu ormawa / organisasi atau update information account.
+	misalkan : 	https://amik-scheduler.ac.id/profile/bem-amik/				<-- Landing Page
+			https://amik-scheduler.ac.id/profile/bem-amik/structure/
+			https://amik-scheduler.ac.id/profile/bem-amik/posts/
+			https://amik-scheduler.ac.id/profile/bem-amik/activity/
+	*dengan begini kita bisa membuat landing page untuk setiap ormawa meskipun tampilannya sama namun content nya akan mengambil dari API.
+	*saya inginnya dengan begini dari setiap ormawa akan mempunyai account mereka sendiri. Dimana akan memiliki tampilan landing page.
+
+Versi 1.3 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 1
+Penelitian ini bertujuan untuk membuat aplikasi berbasis website mengenai penjadwalan kegiatan yang dilakukan oleh mahasiswa ataupun pihak kampus sekaligus memanagement fasilitas yang tersedia di kampus STMIK "AMIK BANDUNG". Oleh karena itu perancangan aplikasi ini bertujuan lain guna adanya bukti laporan kegiatan yang telah diselenggarakan, laporan kegiatan tersebut akan menjadi API yang memungkinkan pihak kampus bisa menggunakan kembali data dari kegiatan yang telah diselenggarakan. Sistem ini juga akan mempermudah dalam pengajuan kegiatan acara yang akan diselenggarakan karena akan menerapkan sistem pembookingan jadwal kegiatan yang akan dilaksanakan.
+Dalam rancangan penelitian ini semua civitas kampus akan memiliki account pribadi milik mereka, akan terdapat role di dalam aplikasi ini seperti, admin, staff, dosen, mahasiswa, organisasi. Dengan menggunakan sistem ini maka akan mudah untuk melakukan penjadwalan kegiatan dimana role yang disediakan juga akan memiliki fungsibilitas yang berbeda beda.
+Penelitian ini juga akan mengelola laporan dari penjadwalan kegiatan, dengan begitu setiap tahun kita bisa melihat acara yang telah dilaksanakan, laporan tersebut mencakup seperti persyuratan, dokumentasi, kepanitian, deskripsi kegiatan dan sebagainya. Data mengenai laporan ini akan dikelola dengan menyimpan ke dalam database MySQL maka dengan begitu penulis bisa membuat API dari databse yang sudah tersedia. Database API tersebut bisa saja digunakan kembali oleh pihak kampus STMIK "AMIK BANDUNG" sebagai postingan mengenai kegiatan yang telah dilaksanakan oleh mahasiswanya, namun di dalam aplikasi website ini akan menerapkan fitur tersebut seperti postingan dari kegiatan yang sudah dilaksanakan, fitur komentar, dan sebagainya.
+Maka dengan adanya penelitian ini,pihak kampus STMIK "AMIK BANDUNG" bisa mengetahui mengenai kegiatan organisasinya dan juga bisa memiliki akses API dari website sistem penjadwalan kegiatan dan management fasilitas kampus untuk civitas akademika. Penelitian ini akan dikembangkan supaya bisa memudahkan para mahasiswa dan staff kampus untuk melakukan pengelolaan mengenai kegiatan dan management fasilitas yang ada di kampus STMIK "AMIK BANDUNG".
+
+
+// 1 AI
+
+Penelitian ini bertujuan untuk mengembangkan sebuah aplikasi berbasis website yang memfasilitasi penjadwalan kegiatan oleh mahasiswa dan pihak kampus serta manajemen fasilitas di lingkungan kampus STMIK "AMIK BANDUNG". Aplikasi ini juga bertujuan untuk menciptakan bukti laporan kegiatan yang akan dijadikan API, memungkinkan pihak kampus menggunakan kembali data kegiatan yang telah dilaksanakan. Selain itu, aplikasi ini memudahkan pengajuan kegiatan dengan menerapkan sistem pembookingan jadwal kegiatan dan manajemen fasilitas kampus.
+
+Dalam rancangan penelitian ini, setiap civitas kampus akan memiliki akun pribadi dengan peran yang berbeda seperti admin, staff, dosen, mahasiswa, dan organisasi. Sistem ini memungkinkan penjadwalan kegiatan yang efisien dengan fungsionalitas yang sesuai dengan peran masing-masing pengguna.
+
+Penelitian ini juga mencakup manajemen laporan kegiatan, termasuk surat-surat, dokumentasi, komite kegiatan, deskripsi kegiatan, dan lainnya. Data laporan ini akan disimpan dalam database MySQL dan akan diubah menjadi API yang dapat dimanfaatkan oleh pihak kampus untuk postingan mengenai kegiatan yang telah dilaksanakan. Selain itu, aplikasi website ini akan menyediakan fitur postingan kegiatan, komentar, dan lainnya.
+
+Penelitian ini memberikan kemudahan kepada pihak kampus STMIK "AMIK BANDUNG" untuk mengelola dan memantau kegiatan organisasi serta mengakses API dari sistem penjadwalan kegiatan dan manajemen fasilitas kampus untuk civitas akademika.

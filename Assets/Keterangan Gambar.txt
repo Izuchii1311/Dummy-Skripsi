@@ -1,0 +1,4 @@
+Cara Kerja API				: https://www.linovhr.com/wp-content/uploads/2022/06/cara-kerja-API.webp
+Cara Kerja Sistem API			: https://niagaspace.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2020/11/Ilustrasi-Mengenal-API_Pengertian-Fungsi-dan-Cara-Kerjanya-1024x345.jpg
+Laravel					: https://github.com/laravel
+TailwindCSS				: https://tailwindcss.com/_next/static/media/card.a6e71726.jpg

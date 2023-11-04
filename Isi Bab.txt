@@ -1,0 +1,80 @@
+BAB I
+Latar Belakang
+Identifikasi Masalah
+Rumusan Masalah
+Maksud dan Tujuan Penelitian
+Jadwal dan Waktu Penelitian
+Sistematika Penulisan
+Manfaat Penelitian
+	Manfaat Penelitian Perguruan Tinggi
+	Manfaat Penelitian Akademik
+	Manfaat Penelitian Umum
+
+
+BAB II
+Pengertian Aplikasi						: https://repository.pancabudi.ac.id/perpustakaan/lokalkonten/1414370236_239_2_BAB_II.pdf
+Konsep Dasar Aplikasi Website					: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+	A. Website						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+	B. Jenis Jenis Web					: https://repository.bsi.ac.id/repo/files/255184/download/File_10-Bab-II-Landasan-Teori.pdf
+	C. Web Browser						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+	D. Web Server						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+	E. Internet						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+	F. Bahasa Pemrograman Web				: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+		HTML						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+		CSS						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+		JS						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+		Jquery						: https://repository.bsi.ac.id/index.php/unduh/item/217247/File_10-Bab-II-Landasan-Teori.pdf
+		PHP						: https://www.simantik.panca-sakti.ac.id/index.php/simantik/article/download/112/108/421	
+Pengertian Sistem						: https://www.kompas.com/skola/read/2021/08/02/131754769/sistem-pengertian-para-ahli-karakteristik-elemen-dan-jenisnya
+Pengertian Penjadwalan						: https://e-journal.uajy.ac.id/7239/4/3TI04609.pdf
+Pengertian Managemen						: https://bakri.uma.ac.id/pengertian-manajemen-menurut-para-ahli/
+Management Fasilitas						: https://perpustakaan.pancabudi.ac.id/dl_file/penelitian/19311_2_BAB_II.pdf
+Database							: https://elib.unikom.ac.id/files/disk1/644/jbptunikompp-gdl-eltrinovia-32181-8-unikom_e-i.pdf
+	MySQL							: https://elib.unikom.ac.id/files/disk1/644/jbptunikompp-gdl-eltrinovia-32181-8-unikom_e-i.pdf
+	API							: http://library.binus.ac.id/eColls/eThesisdoc/Bab2/2013-1-00621-IF%20Bab2001.pdf
+	Google Calendar API					: https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/8556/3943
+Framework							: http://repository.unim.ac.id/2967/2/BAB%202.pdf
+	Laravel							: https://dspace.uii.ac.id/bitstream/handle/123456789/20187/05.2%20bab%202.pdf?sequence=6&isAllowed=y#:~:text=Laravel%20adalah%20pengembangan%20website%20berbasis,%2C%20jelas%2C%20dan%20menghemat%20waktu.
+	TailwindCss						: https://e-journal.uajy.ac.id/26871/3/17%2006%2009213%202.pdf
+User Interface							: https://repository.dinamika.ac.id/id/eprint/1764/3/BAB_II.pdf
+	Prinsip Perancangan Interface				: https://repository.widyatama.ac.id/server/api/core/bitstreams/6ced11dc-ec7c-4026-b9ab-92af00165ac3/content
+	Jenis Jenis Interface					: https://repository.bsi.ac.id/repo/files/263726/download/File_10-bab-II-Landasan-Teori.pdf
+	Figma							: https://eprints.utdi.ac.id/9574/3/3_205410101_BAB_II%20-%20tegar%20akbar.pdf
+	Prototype						: https://eprints.amikompurwokerto.ac.id/id/eprint/728/5/BAB%20II.pdf
+Usability Testing						: http://repositori.unsil.ac.id/4129/6/11.%20BAB%20II.pdf
+Penelitian Terdahulu						: ->
+								1. Pamela Alfa Adelia Darmadji (2008), Pengembangan Aplikasi Sistem Informasi Penjadwalan Perkuliahan Elektronik Berbasis Web Dengan SMS Gateaway. 
+									https://lib.ui.ac.id/file?file=digital/124288-R030863.pdf 
+								2. Ulisna Ade Rifai (2011), Pengembangan Aplikasi Penjadwalan Kegiatan Dengan Menggunakan Algoritma Genetika, Studi Kasus : Humas Kementrian Agama RI 
+									https://repository.uinjkt.ac.id/dspace/bitstream/123456789/4947/1/ULISNA%20ADE%20RIFAI-FST.pdf 
+								3. Fahmy Ardiman (2017), Aplikasi Penjadwalan Ruangan Berbasis Web Balai Pelatihan dan Riset TIK Memanfaatkan Teknologi Web Service 
+									https://repository.uinjkt.ac.id/dspace/bitstream/123456789/61354/1/FAHMY%20ARDIMAN%20-%20FST.pdf
+								4. Rahmat Julianto Putra (2021), Rancang Bangun Aplikasi Management Aset Berbasis Website Pada SMA Hang Tuah 4 Surabaya. 
+									https://repository.dinamika.ac.id/id/eprint/5875/1/18410100267-2021-UNIVERSITASDINAMIKA.pdf 
+								5. Delta Riska Gemina (2020), Perancangan User Interface Situs Web E-Letter UIN Jakarta Menggunakan Metode Five Planes.  
+									https://repository.uinjkt.ac.id/dspace/bitstream/123456789/55501/1/DELTA%20RISKA%20GEMINA-FST.pdf
+Kerangka Penelitian
+
+
+BAB III
+Objek Penelitian
+	Sejarah Singkat Penelitian
+		A. Visi
+		B. Misi
+		C. Logo Penelitian
+	Struktur Organisasi Instansi
+	Sistem Yang Sedang Berjalan
+	Usulan Sistem
+Analisis Kebutuhan
+	Input Sistem
+	Output Sistem
+	Deskripsi Sistem
+	Kebutuhan Fungsional
+	Kebutuhan Non Fungsional
+	Definisi Aktor
+Perancangan Antar Muka
+	Prototype
+	Tampilan (Role)
+		A. Tampilan Page ...
+	Struktur Menu
+	

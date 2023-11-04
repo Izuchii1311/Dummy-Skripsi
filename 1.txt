@@ -14,6 +14,28 @@ kampus / perguruan tinggi = https://eprints.uny.ac.id/8014/3/BAB%202-06404241036
 civitas akademik = https://www.detik.com/bali/berita/d-6465769/civitas-akademika-adalah-berikut-definisinya
 
 
+Kajian Pustaka Update 2
+Sistem 			: https://www.kompas.com/skola/read/2021/08/02/131754769/sistem-pengertian-para-ahli-karakteristik-elemen-dan-jenisnya
+Penjadwalan		: https://e-journal.uajy.ac.id/7239/4/3TI04609.pdf
+Fungsi & Tujuan 	: https://repository.uin-suska.ac.id/16009/7/7.%20BAB%20II_201802TIN.pdf
+Management		: https://bakri.uma.ac.id/pengertian-manajemen-menurut-para-ahli/
+Fasilitas		: https://perpustakaan.pancabudi.ac.id/dl_file/penelitian/19311_2_BAB_II.pdf
+Civitas Akademika	: https://www.detik.com/bali/berita/d-6465769/civitas-akademika-adalah-berikut-definisinya
+UML			: http://repository.uib.ac.id/2621/5/k-1531086-chapter2.pdf
+ERD			: http://repository.uib.ac.id/2621/5/k-1531086-chapter2.pdf
+Use Case Diagram	: http://repository.uib.ac.id/2621/5/k-1531086-chapter2.pdf
+Sequence Diagram	: http://repository.uib.ac.id/2621/5/k-1531086-chapter2.pdf
+Activity Diagram	: http://repository.uib.ac.id/2621/5/k-1531086-chapter2.pdf
+Konsep MVC		: https://repository.bsi.ac.id/repo/files/255184/download/File_10-Bab-II-Landasan-Teori.pdf
+Bahasa Pemrograman Web (HTML, CSS, JS, Jquery, PHP) : https://repository.bsi.ac.id/repo/files/255184/download/File_10-Bab-II-Landasan-Teori.pdf
+Framework		: https://repository.bsi.ac.id/repo/files/255184/download/File_10-Bab-II-Landasan-Teori.pdf
+Laravel 		: http://repository.unim.ac.id/2967/2/BAB%202.pdf
+TailwindCss		: https://e-journal.uajy.ac.id/26871/3/17%2006%2009213%202.pdf
+Apache			: http://repository.uib.ac.id/443/4/S-1131069-chapter2.pdf
+MySql			: https://e-journal.uajy.ac.id/26871/3/17%2006%2009213%202.pdf
+
+
+
 Penelitian Sebelumnya
 1. Pamela Alfa Adelia Darmadji (2008), Pengembangan Aplikasi Sistem Informasi Penjadwalan Perkuliahan Elektronik Berbasis Web Dengan SMS Gateaway. https://lib.ui.ac.id/file?file=digital/124288-R030863.pdf 
 2. Ulisna Ade Rifai (2011), Pengembangan Aplikasi Penjadwalan Kegiatan Dengan Menggunakan Algoritma Genetika, Studi Kasus : Humas Kementrian Agama RI https://repository.uinjkt.ac.id/dspace/bitstream/123456789/4947/1/ULISNA%20ADE%20RIFAI-FST.pdf 

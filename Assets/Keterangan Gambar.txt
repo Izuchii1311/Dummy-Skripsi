@@ -2,3 +2,6 @@ Cara Kerja API				: https://www.linovhr.com/wp-content/uploads/2022/06/cara-kerj
 Cara Kerja Sistem API			: https://niagaspace.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2020/11/Ilustrasi-Mengenal-API_Pengertian-Fungsi-dan-Cara-Kerjanya-1024x345.jpg
 Laravel					: https://github.com/laravel
 TailwindCSS				: https://tailwindcss.com/_next/static/media/card.a6e71726.jpg
+STMIK AMIK BANDUNG			: https://stmik-amikbandung.ac.id/wp-content/uploads/2022/12/Sejarah-4-1024x576.jpg.webp
+Scrum					: https://wellcode-blog.s3-ap-southeast-1.amazonaws.com/uploads/gallery/image/99/3387cf60c6c4a45c.png
+Figma					: https://lh4.googleusercontent.com/41StRSDf10Q0SKeBWw_Pvcp1LIaZ_pq4K6Z1FoTJZleewGB1jIQWyetg21Yj7S6moPsazQ9ZkGWxznLI__mcqqosQkge_vCZbwExSDYPQESKl81ioUSzebktYZXJqaSnBeR6ATuW=s0

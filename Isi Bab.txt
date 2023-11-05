@@ -3,6 +3,9 @@ Latar Belakang
 Identifikasi Masalah
 Rumusan Masalah
 Maksud dan Tujuan Penelitian
+Metode						: https://repositoryfisip.unla.ac.id/browse/previews/270#:~:text=Menurut%20Sugiyono%20(2018%3A213),kualitatif%20lebih%20menekan%20pada%20makna.
+	Teknik Pengumpulan Data			: https://uin-malang.ac.id/r/110601/metode-pengumpulan-data-penelitian-kualitatif.html
+	Metode Perancangan Sistem
 Jadwal dan Waktu Penelitian
 Sistematika Penulisan
 Manfaat Penelitian
@@ -29,6 +32,7 @@ Pengertian Sistem						: https://www.kompas.com/skola/read/2021/08/02/131754769/
 Pengertian Penjadwalan						: https://e-journal.uajy.ac.id/7239/4/3TI04609.pdf
 Pengertian Managemen						: https://bakri.uma.ac.id/pengertian-manajemen-menurut-para-ahli/
 Management Fasilitas						: https://perpustakaan.pancabudi.ac.id/dl_file/penelitian/19311_2_BAB_II.pdf
+Scrum								: https://dspace.uii.ac.id/bitstream/handle/123456789/20869/05.2%20bab%202.pdf?sequence=6&isAllowed=y
 Database							: https://elib.unikom.ac.id/files/disk1/644/jbptunikompp-gdl-eltrinovia-32181-8-unikom_e-i.pdf
 	MySQL							: https://elib.unikom.ac.id/files/disk1/644/jbptunikompp-gdl-eltrinovia-32181-8-unikom_e-i.pdf
 	API							: http://library.binus.ac.id/eColls/eThesisdoc/Bab2/2013-1-00621-IF%20Bab2001.pdf
@@ -58,16 +62,15 @@ Kerangka Penelitian
 
 BAB III
 Objek Penelitian
+	Profil Perguruan Tinggi
 	Sejarah Singkat Penelitian
-		A. Visi
-		B. Misi
-		C. Logo Penelitian
-	Struktur Organisasi Instansi
-	Sistem Yang Sedang Berjalan
-	Usulan Sistem
+	Jurusan / Program Studi
+	Struktur Organisasi Perguruan Tinggi
+	Visi Misi Perguruan Tinggi
+Analisis Sistem
+	Sistem yang sedang berjalan
+	Sistem usulan
 Analisis Kebutuhan
-	Input Sistem
-	Output Sistem
 	Deskripsi Sistem
 	Kebutuhan Fungsional
 	Kebutuhan Non Fungsional
